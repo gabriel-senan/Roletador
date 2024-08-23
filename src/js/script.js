@@ -8,7 +8,7 @@ btn.onclick = function() {
     number += Math.ceil(Math.random() * 1000);
 } */
 
-let container = document.querySelector(".container");
+let container = document.querySelector(".pessoa");
 let btn = document.getElementById("girar");
 let pessoas = 0;
 

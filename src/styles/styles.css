@@ -13,7 +13,7 @@ body {
     overflow: hidden;
 }
 
-.container {
+.pessoa {
     width: 550px;
     height: 550px;
     background-color: #ccc;
@@ -24,7 +24,7 @@ body {
     transition: 5.3s;
 }
 
-.container div {
+.pessoa div {
     height: 50%;
     width: 250px;
     position: absolute;
@@ -42,42 +42,42 @@ body {
     left: 135px;
 }
 
-.container .um {
+.pessoa .um {
     background-color: #FFF2B3;
     left: 50%;
 }
 
-.container .dois {
+.pessoa .dois {
     background-color: #FAC074;
     transform: rotate(45deg);
 }
 
-.container .tres {
+.pessoa .tres {
     background-color: #F17578;
     transform: rotate(90deg);
 }
 
-.container .quatro {
+.pessoa .quatro {
     background-color: #F1E27C;
     transform: rotate(135deg);
 }
 
-.container .cinco {
+.pessoa .cinco {
     background-color: #95DDA7;
     transform: rotate(180deg);
 }
 
-.container .seis {
+.pessoa .seis {
     background-color: #8FE7F6;
     transform: rotate(225deg);
 }
 
-.container .sete {
+.pessoa .sete {
     background-color: #AE8BE2;
     transform: rotate(270deg);
 }
 
-.container .oito {
+.pessoa .oito {
     background-color: #EE8AB7;
     transform: rotate(315deg);
 }
