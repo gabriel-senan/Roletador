@@ -1,2 +1,0 @@
-# Roletador
-Roleta random
